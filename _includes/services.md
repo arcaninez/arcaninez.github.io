@@ -6,3 +6,5 @@
   <li><autocolor>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2025</autocolor></a></li>
   <li><autocolor>IEEE/CVF International Conference on Computer Vision (ICCV) 2025</autocolor></a></li>
 </ul>
+
+<div style="margin-bottom: 20px;"></div>
