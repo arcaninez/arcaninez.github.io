@@ -7,7 +7,7 @@
 
 <div style="display: flex; justify-content: space-between;">
   <span>RA <strong>University of Sydney</strong>, Sydney, Australia</span>
-  <span>2023-2024</span>
+  <span>2022-2023</span>
 </div>
 
 <div style="display: flex; justify-content: space-between;">
