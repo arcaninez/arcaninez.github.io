@@ -8,7 +8,7 @@ I am a Ph.D. student at Shanghai Jiao Tong University, with research interests i
 
 ## Research Interests
 
-- **Computer Vision:** image classification, 2D/3D oject detection
+- **Computer Vision:** image classification, 2D/3D object detection
 - **Knowledge Distillation:** cross-model, cross-architecture, and cross-modality transfer learning
 
 {% include_relative _includes/experience.md %}
