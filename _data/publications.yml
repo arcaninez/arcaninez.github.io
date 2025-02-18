@@ -6,7 +6,6 @@ main:
     conference: Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2024.
     pdf: https://arxiv.org/pdf/2410.06806
     code: https://github.com/vision-sjtu/quadmamba
-    page: https://github.com/vision-sjtu/quadmamba
     image: ./assets/img/teaser_quadmamba.png
     
   - title: "Cross-View Consistency Regularisation for Knowledge Distillation"
@@ -15,7 +14,6 @@ main:
     conference: ACM International Conference on Multimedia <strong>(ACM MM)</strong>, 2024.
     pdf: https://arxiv.org/pdf/2412.16493
     code: https://github.com/arcaninez/CRLD
-    page: https://github.com/arcaninez/CRLD
     image: ./assets/img/teaser_crld.png
 
   - title: "Alleviating Foreground Sparsity for Semi-Supervised Monocular 3D Object Detection"
@@ -24,5 +22,4 @@ main:
     conference: IEEE/CVF Winter Conference on Applications of Computer Vision <strong>(WACV)</strong>, 2024.
     pdf: https://openaccess.thecvf.com/content/WACV2024/papers/Zhang_Alleviating_Foreground_Sparsity_for_Semi-Supervised_Monocular_3D_Object_Detection_WACV_2024_paper.pdf
     code: https://github.com/arcaninez/ODM3D
-    page: https://github.com/arcaninez/ODM3D
     image: ./assets/img/teaser_odm3d.png
