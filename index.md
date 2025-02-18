@@ -19,7 +19,7 @@ I am a Ph.D. student at Shanghai Jiao Tong University, with research interests i
 - **[Jul. 2024]** Our paper on object tracking robustness is accepted to ECCV 2024.
 - **[Jul. 2024]** Our paper on knowledge distillation is accepted to ACMMM 2024.
 - **[Jun. 2024]** Our paper on few-shot 3D object detection is accepted to PRCV 2024.
-- **[Oct. 2023]** Our paper on monocular 3D object detection is accepted to WACV 2024!
+- **[Oct. 2023]** Our paper on monocular 3D object detection is accepted to WACV 2024.
 
 {% include_relative _includes/publications.md %}
 
