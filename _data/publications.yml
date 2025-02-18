@@ -16,6 +16,13 @@ main:
     code: https://github.com/arcaninez/CRLD
     image: ./assets/img/teaser_crld.png
 
+  - title: "CP-VoteNet: Contrastive Prototypical VoteNet for Few-Shot Point Cloud Object Detection"
+    authors: Xuejing Li, <strong>Weijia Zhang</strong>, Chao Ma
+    conference_short: PRCV
+    conference: Chinese Conference on Pattern Recognition and Computer Vision <strong>(PRCV)</strong>, 2024.
+    pdf: https://arxiv.org/pdf/2408.17036
+    image: ./assets/img/teaser_cpvotenet.png
+
   - title: "Alleviating Foreground Sparsity for Semi-Supervised Monocular 3D Object Detection"
     authors: <strong>Weijia Zhang</strong>, Dongnan Liu, Chao Ma, Weidong Cai
     conference_short: WACV
