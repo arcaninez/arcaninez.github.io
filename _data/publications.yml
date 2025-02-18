@@ -10,13 +10,11 @@ main:
     image: ./assets/img/teaser_example_2.png
     notes: Early Accept
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
+  - title: "Alleviating Foreground Sparsity for Semi-Supervised Monocular 3D Object Detection"
+    authors: <strong>Weijia Zhang</strong>, Dongnan Liu, Chao Ma, Weidong Cai
+    conference_short: WACV
+    conference: IEEE/CVF Winter Conference on Applications of Computer Vision <strong>(WACV)</strong>, 2024.
+    pdf: https://openaccess.thecvf.com/content/WACV2024/papers/Zhang_Alleviating_Foreground_Sparsity_for_Semi-Supervised_Monocular_3D_Object_Detection_WACV_2024_paper.pdf
+    code: https://github.com/arcaninez/ODM3D
+    page: https://github.com/arcaninez/ODM3D
     image: ./assets/img/teaser_example.png
