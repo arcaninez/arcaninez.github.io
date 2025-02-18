@@ -1,14 +1,13 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
+  - title: Cross-View Consistency Regularisation for Knowledge Distillation
+    authors: <strong>Weijia Zhang*</strong>, Dongnan Liu, Weidong Cai, Chao Ma
+    conference_short: ACM MM
+    conference: ACM International Conference on Multimedia <strong>(ACM MM)</strong>, 2023.
+    pdf: https://arxiv.org/pdf/2412.16493
+    code: https://github.com/arcaninez/CRLD
+    page: https://github.com/arcaninez/CRLD
     image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
 
   - title: "Alleviating Foreground Sparsity for Semi-Supervised Monocular 3D Object Detection"
     authors: <strong>Weijia Zhang</strong>, Dongnan Liu, Chao Ma, Weidong Cai
@@ -17,4 +16,4 @@ main:
     pdf: https://openaccess.thecvf.com/content/WACV2024/papers/Zhang_Alleviating_Foreground_Sparsity_for_Semi-Supervised_Monocular_3D_Object_Detection_WACV_2024_paper.pdf
     code: https://github.com/arcaninez/ODM3D
     page: https://github.com/arcaninez/ODM3D
-    image: ./assets/img/teaser_example.png
+    image: ./assets/img/teaser_odm3d.png
