@@ -1,7 +1,7 @@
 main:
 
   - title: QuadMamba: Learning Quadtree-based Selective Scan for Visual State Space Model
-    authors: Fei Xie, <strong>Weijia Zhang*</strong>, Zhongdao Wang, Chao Ma
+    authors: Fei Xie, <strong>Weijia Zhang</strong>, Zhongdao Wang, Chao Ma
     conference_short: NeurIPS
     conference: Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2024.
     pdf: https://arxiv.org/pdf/2410.06806
