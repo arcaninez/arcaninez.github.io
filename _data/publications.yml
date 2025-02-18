@@ -10,7 +10,7 @@ main:
     image: ./assets/img/teaser_quadmamba.png
     
   - title: Cross-View Consistency Regularisation for Knowledge Distillation
-    authors: <strong>Weijia Zhang*</strong>, Dongnan Liu, Weidong Cai, Chao Ma
+    authors: <strong>Weijia Zhang</strong>, Dongnan Liu, Weidong Cai, Chao Ma
     conference_short: ACM MM
     conference: ACM International Conference on Multimedia <strong>(ACM MM)</strong>, 2024.
     pdf: https://arxiv.org/pdf/2412.16493
