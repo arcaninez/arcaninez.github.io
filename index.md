@@ -11,6 +11,8 @@ I am a Ph.D. student at Shanghai Jiao Tong University, with research interests i
 - **Computer Vision:** image classification, 2D/3D oject detection
 - **Knowledge Distillation:** cross-model, cross-architecture, and cross-modality transfer learning
 
+{% include_relative _includes/experience.md %}
+
 ## News
 
 - **[Sep. 2024]** Our paper on Mamba-based vision architecture is accepted to NeurIPS 2024.
