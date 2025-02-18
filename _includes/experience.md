@@ -11,13 +11,13 @@
 </div>
 
 <div style="display: flex; justify-content: space-between;">
-  <span>MSc <strong>Imperial College London</strong></span>
+  <span>M.Sc. <strong>Imperial College London</strong></span>
   <span>2020-2021</span>
 </div>
 
 <div style="display: flex; justify-content: space-between;">
-  <span>BSc <strong>Imperial College London</strong></span>
+  <span>B.Sc. <strong>Imperial College London</strong></span>
   <span>2017-2020</span>
 </div>
 
-<br>
+<div style="margin-bottom: 5px;"></div>
