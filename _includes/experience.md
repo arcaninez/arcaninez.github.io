@@ -9,3 +9,15 @@
   <span>RA <strong>University of Sydney</strong></span>
   <span>2023-2024</span>
 </div>
+
+<div style="display: flex; justify-content: space-between;">
+  <span>MSc <strong>Imperial College London</strong></span>
+  <span>2020-2021</span>
+</div>
+
+<div style="display: flex; justify-content: space-between;">
+  <span>BSc <strong>Imperial College London</strong></span>
+  <span>2017-2020</span>
+</div>
+
+<br>
