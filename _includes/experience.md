@@ -20,4 +20,4 @@
   <span>2017-2020</span>
 </div>
 
-<div style="margin-bottom: 15px;"></div>
+<div style="margin-bottom: 20px;"></div>
