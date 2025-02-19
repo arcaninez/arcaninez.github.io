@@ -1,6 +1,11 @@
 ## Awards
 
 <div style="display: flex; justify-content: space-between;">
+  <span><strong>Outstanding Undergraduate Thesis</strong>, Imperial College London</span>
+  <span>2021</span>
+</div>
+
+<div style="display: flex; justify-content: space-between;">
   <span><strong>Dean's List</strong>, Imperial College London</span>
   <span>2021</span>
 </div>
