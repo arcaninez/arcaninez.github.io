@@ -1,6 +1,11 @@
 ## Experience
 
 <div style="display: flex; justify-content: space-between;">
+  <span>Research Intern <strong>vivo</strong>, Shanghai, China</span>
+  <span>2025</span>
+</div>
+
+<div style="display: flex; justify-content: space-between;">
   <span>Ph.D. <strong>Shanghai Jiao Tong University</strong>, Shanghai, China</span>
   <span>2024-2027</span>
 </div>
