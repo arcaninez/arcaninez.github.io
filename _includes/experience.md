@@ -1,7 +1,7 @@
 ## Experience
 
 <div style="display: flex; justify-content: space-between;">
-  <span>Research Intern <strong>vivo</strong>, Shanghai, China</span>
+  <span>Research Intern, <strong>vivo</strong>, Shanghai, China</span>
   <span>2025</span>
 </div>
 
