@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at Shanghai Jiao Tong University, with research interests in computer vision, knowledge distillation, and their applications. Previously, I obtained my B.Sc. and M.Sc. in Computing from Imperial College London. 
+I am a Ph.D. student at Shanghai Jiao Tong University, with research interests in computer vision, knowledge distillation, and their applications. Previously, I obtained my B.Sc. and M.Sc. in Computing from Imperial College London. I was also affiliated with Robot Vision Lab at Imperial College London and BMIT Lab at University of Sydney.
 
 ## Research Interests
 
