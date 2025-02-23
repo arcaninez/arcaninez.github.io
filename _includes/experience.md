@@ -16,6 +16,11 @@
 </div>
 
 <div style="display: flex; justify-content: space-between;">
+  <span>Research Intern, <strong>Huawei</strong>, London, UK</span>
+  <span>2020</span>
+</div>
+
+<div style="display: flex; justify-content: space-between;">
   <span>M.Sc. <strong>Imperial College London</strong>, London, UK</span>
   <span>2020-2021</span>
 </div>
