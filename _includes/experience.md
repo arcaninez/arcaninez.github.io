@@ -16,7 +16,7 @@
 </div>
 
 <div style="display: flex; justify-content: space-between;">
-  <span>Research Intern, <strong>Huawei</strong>, London, UK</span>
+  <span>Research Intern, <strong>Huawei</strong>, Cambridge, UK</span>
   <span>2020</span>
 </div>
 
